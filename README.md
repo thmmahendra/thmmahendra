@@ -1,4 +1,6 @@
-Hi! 👋 I’m Mahendra Tamang, a full-stack developer who loves to creating user-friendly and scable web solutions. Programming has been my passion since the day I started coding and build the first program with computers. I enjoy coding and building new system websites.
+Hi! 👋 I’m Mahendra Tamang, a full-stack developer focused on creating great web experiences. Programming has been my passion since the day I started coding and build the first program with computers. I enjoy coding and building new system websites.
+
+![https://raisachin.com.np](https://komarev.com/ghpvc/?username=thmmahendra) 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/thmmahendra?label=Follow%20%40me&style=social)
 
